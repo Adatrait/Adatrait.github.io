@@ -2,15 +2,13 @@
 # Site settings
 title: Joannah Nanjekye
 name: Joannah Nanjekye
-subtitle: Straight Outta 256 , I choose Results over Reasons, Passionate Aviator, Show me the code.
-email: nanjekyejoannah@gmail.com
+subtitle: Tax Consulting, Accounting and Auditing, Software development, Agency Services
 description: >
-  Talking about Code, Aircrafts and anything else. Remember opions = my own .
-baseurl: ""
-url: "https://nanjekyejoannah.github.io/"
-twitter_username: JoannahNanjekye
-github_username:  nanjekyejoannah
-disqus_baseurl: "https://nanjekyejoannah.github.io/"
+  
+url: "https://Adatrait.github.io/"
+twitter_username: adatrait
+github_username:  Adatrait
+disqus_baseurl: "https://Adatrait.github.io/"
 disqus_shortname: https-nanjekyejoannah-github-io
 permalink: :title
 cover: "/assets/sky2.jpeg"
