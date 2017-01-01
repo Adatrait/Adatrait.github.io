@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tax
+title: Tax Consultancy
 permalink: /tax/
 ---
 

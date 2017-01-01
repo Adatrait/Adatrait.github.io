@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 
+title: Software Development
 description: 
-permalink: /Software Development/
+permalink: /SoftwareDevelopment/
 ---
 <br>
 
