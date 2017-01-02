@@ -12,7 +12,7 @@ disqus_baseurl: "https://Adatrait.github.io/"
 disqus_shortname: https-nanjekyejoannah-github-io
 permalink: :title
 cover: "/assets/index.jpeg"
-logo: "/assets/index.jpeg"
+logo: "/assets/adatrait.png"
 ga_tracking_id: "UA-82647777-1"
 
 # Build settings
