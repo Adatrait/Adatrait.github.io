@@ -9,7 +9,7 @@ url: "https://Adatrait.github.io/"
 twitter_username: adatrait
 github_username:  Adatrait
 disqus_baseurl: "https://Adatrait.github.io/"
-disqus_shortname: https-nanjekyejoannah-github-io
+disqus_shortname: https-adatrait-github-io
 permalink: :title
 cover: "/assets/index.jpeg"
 logo: "/assets/adatrait.png"
@@ -26,7 +26,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Joannah Nanjekye"
+      author: "AdaTrait"
 
 
 # External gems
@@ -41,23 +41,16 @@ exclude:
 social:
   - name: Twitter
     icon: twitter
-    url: https://twitter.com/JoannahNanjekye
+    url: https://twitter.com/Adatrait
     desc: Follow me on Twitter
     share: true
 
   - name: GitHub
     icon: github
-    username: nanjekyejoannah
-    url: https://github.com/nanjekyejoannah
+    username: Adatrait
+    url: https://github.com/Adatrait
     desc: Fork me on GitHub
     share: false
-
-  - name: LinkedIn
-    icon: linkedin
-    username: Joannah Nanjekye
-    url: https://ug.linkedin.com/in/nanjekye-joannah-850b784a
-    desc: Connect with me on LinkedIn
-    share: true
 
   - name: Google+
     icon: google-plus
@@ -150,6 +143,6 @@ protocols:
 
     twitter_image: "/assets/index.jpeg"
 
-    os_repo: "https://github.com/nanjekyejoannah/nanjekyejoannah.github.io"
+    os_repo: "https://github.com/Adatrait/Adatrait.github.io"
     os_rcs_type: "git"
-    os_src: "git@github.com:nanjekyejoannah.github.io.git"
+    os_src: "git@github.com:Adatrait.github.io.git"
